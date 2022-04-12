@@ -1,0 +1,19 @@
+.nav-bar{
+    width: 100%;
+    height: 50px;
+    background: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-bar a{
+    margin: 0 10px;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #000;
+}
+
+.nav-bar a:hover{
+    color: rgb(88, 162, 204);
+}
