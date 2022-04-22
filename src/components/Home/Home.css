@@ -1,4 +1,6 @@
 .home-container{
+    width: 1300x;
+    margin: auto;
     display: grid;
     grid-template-columns: 3fr 1fr;
     grid-gap: 20px;
